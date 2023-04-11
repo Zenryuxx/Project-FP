@@ -24,3 +24,31 @@
 
 
 # Also don't forget to keep using this tool wisely, because anything in excess is not good. Thank you, and God Bless you. :)
+
+
+
+
+
+BAHASA INDONESIA
+
+Untuk tahap pre-release, program ini hanya kompatibel untuk perangkat dengan OS windows.
+
+
+Program ini ditulis menggunakan bahasa python dengan rincian library yang digunakan sebagai GUI adalah tkinter dan di rakit menjadi program executable/di compiled menggunakan library pyinstaller serta menggunakan library pytube untuk request data dan metadata video dari server youtube.
+
+
+Saya pribadi telah menguji dan telah menggunakan program ini di lebih dari satu perangkat berbasis OS windows tentunya
+dan program ini berjalan tanpa ada masalah jadi anda bisa dengan leluasa menggunakannya.
+
+
+Untuk beberapa perangkat dengan windows smartscreen yang diaktifkan akan mengalami beberap langkah tambahan agar program ini bisa berjalan dikarenakan windows tidak mengenali publisher atau developernya (ya karena saya bukan developer terkenal seperti windows ataupun apple :D )
+tetapi tenang anda tidak perlu khawatir, dalam repositori ini saya juga menyertakan cara mengatasinya.
+(cek panduan manual tentang bypass smartscreen).
+
+
+Terakhir, untuk program ini karena saya sendiri juga menggunakan sebagai alat bantu jadi project ini akan menjadi salah satu project support jangka panjang dengan berbagai update fitur dan pengembangan yang lebih baik dari versi sebelumnya.
+Jadi silahkan anda tunggu perkembangan selanjutnya dan jangan sungkan untuk berpartisipasi menjadi kolaborator agar project ini berguna bagi khalayak umum.
+
+
+
+Juga tidak lupa untuk tetap menggunakan alat ini dengan bijak yaaa karena sesuatu yang berlebihan itu tidak baik. Terima kasih, Tuhan memberkati.
