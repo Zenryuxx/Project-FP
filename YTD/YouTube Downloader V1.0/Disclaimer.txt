@@ -1,0 +1,26 @@
+### DISCLAIMER ###
+
+# For the pre-release stage, this program is only compatible for devices with Windows OS.
+
+
+# This program is written using Python language with details of the library i used for GUI is Tkinter
+  and assembled into an executable(.exe) / compiled program using PyInstaller library I'm also using the Pytube library
+  to request data and video metadata from the YouTube server.
+
+
+# I personally have tested and have used this program on more than one Windows OS based device of course
+  and the program runs without any problems, so you can freely use it.
+
+
+# For some devices with Windows Smartscreen activated
+  there will be several additional steps so that this program can run
+  because windows doesn't recognize the publisher or developer (yes because I'm not a well-known developer like windows or apple :D )
+  but don't worry in this repository I also include how to solve it. (check the manual guide about smartscreen bypass).
+
+
+# Last but not least, because I also use this program as a tool. So this project will be one of the long-term support projects with various feature updates
+  and better development than the previous version. So please wait for further developments and don't hesitate to participate as collaborators
+  so that this project will be useful for the general public.
+
+
+# Also don't forget to keep using this tool wisely, because anything in excess is not good. Thank you, and God Bless you. :)
